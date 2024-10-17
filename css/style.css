@@ -10,7 +10,27 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
-
+#about {
+    scroll-margin-top: 5rem
+}
+#services {
+    scroll-margin-top: 5rem
+}
+#team {
+    scroll-margin-top: 5rem
+}
+#gallery {
+    scroll-margin-top: 5rem
+}
+#testimonial {
+    scroll-margin-top: 5rem
+}
+#blog {
+    scroll-margin-top: 5rem
+}
+#contact {
+    scroll-margin-top: 5rem
+}
 ::-webkit-scrollbar {
     width: .3rem;
 }
